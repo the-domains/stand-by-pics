@@ -1,4 +1,4 @@
-name: Stand by Pics
+name: Standbypics
 favicon: null
 layout_spectrum: 0.22359
 typography_spectrum: 0.38167
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
-  saturation: 0.5382490276824683
+  saturation: 0.1875
   rhythmicContrast: 1
 purpose: []
