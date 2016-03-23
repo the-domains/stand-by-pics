@@ -1,7 +1,7 @@
 name: Stand by Pics
 favicon: null
-layout_spectrum: 0.31078083463944495
-typography_spectrum: 0.37890526675619185
+layout_spectrum: 0.23071
+typography_spectrum: 0.40739
 title: Stand by Pics
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4900815465953201
-  lightness: 0.0037507659289985895
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.5382490276824683
-  rhythmicContrast: 0.4416414450388402
+  rhythmicContrast: 0.5
 purpose: []
