@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: "10 tips to\nimprove your photography skills "
-datePublished: '2016-03-23T22:07:29.123Z'
-dateModified: '2016-03-23T22:07:20.148Z'
+datePublished: '2016-03-23T22:14:51.693Z'
+dateModified: '2016-03-23T22:14:20.975Z'
 title: '10 tips to improve your photography skills '
 author: []
 sourcePath: _posts/2016-03-23-10-tips-to-improve-your-photography-skills.md
