@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stand by Pics]]></title>
+        <description><![CDATA[Stand by Pics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 21:28:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 tips to improve your photography skills ]]></title>
+            <description><![CDATA[<article><h1>10 tips to improve your photography skills </h1><p>10 tips to
+improve your photography skills </p></article>]]></description>
+            <link>undefined10-tips-to-improve-your-photography-skills/index.html</link>
+            <guid isPermaLink="false">071fc801-b4dd-4bd6-b37c-4c05b2aea5e3</guid>
+            <pubDate>Wed, 23 Mar 2016 21:28:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
