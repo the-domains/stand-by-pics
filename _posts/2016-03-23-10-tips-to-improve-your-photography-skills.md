@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "10 tips to\nimprove your photography skills "
-datePublished: '2016-03-23T22:14:51.693Z'
-dateModified: '2016-03-23T22:14:20.975Z'
+datePublished: '2016-03-24T21:22:13.134Z'
+dateModified: '2016-03-24T21:22:07.539Z'
 title: '10 tips to improve your photography skills '
 author: []
 sourcePath: _posts/2016-03-23-10-tips-to-improve-your-photography-skills.md
@@ -28,7 +28,7 @@ _type: Article
 improve your photography skills **
 
 1- Visit
-your neighborhood
+your neighbourhood
 
 You don't have to travel thousand miles to make beautiful shots. What
 you've to do is just going few step away from your home.
