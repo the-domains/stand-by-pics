@@ -5,9 +5,11 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "10 tips to\nimprove your photography skills "
-datePublished: '2016-03-24T21:23:24.082Z'
-dateModified: '2016-03-24T21:23:12.292Z'
+description: |-
+  1- Visit
+  your neighbourhood
+datePublished: '2016-03-24T21:24:28.464Z'
+dateModified: '2016-03-24T21:23:55.225Z'
 title: '10 tips to improve your photography skills '
 author: []
 sourcePath: _posts/2016-03-23-10-tips-to-improve-your-photography-skills.md
