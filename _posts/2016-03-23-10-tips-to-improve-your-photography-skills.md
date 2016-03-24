@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 10 tips to improve your photography skills
-datePublished: '2016-03-24T21:43:37.333Z'
-dateModified: '2016-03-24T21:42:43.173Z'
+datePublished: '2016-03-24T21:44:05.339Z'
+dateModified: '2016-03-24T21:43:57.916Z'
 title: '10 tips to improve your photography skills '
 author: []
 sourcePath: _posts/2016-03-23-10-tips-to-improve-your-photography-skills.md
@@ -22,8 +22,9 @@ url: 10-tips-to-improve-your-photography-skills/index.html
 _type: Article
 
 ---
-**10 tips to improve your photography skills**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/503f45d6-6788-46a4-91b8-e7a68e7e8a22.jpg)
+
+**10 tips to improve your photography skills**
 
 1- Visit
 your neighbourhood
