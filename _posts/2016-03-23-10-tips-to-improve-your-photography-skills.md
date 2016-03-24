@@ -5,11 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: |-
-  1- Visit
-  your neighbourhood
-datePublished: '2016-03-24T21:24:28.464Z'
-dateModified: '2016-03-24T21:23:55.225Z'
+description: 10 tips to improve your photography skills
+datePublished: '2016-03-24T21:25:24.316Z'
+dateModified: '2016-03-24T21:24:58.965Z'
 title: '10 tips to improve your photography skills '
 author: []
 sourcePath: _posts/2016-03-23-10-tips-to-improve-your-photography-skills.md
